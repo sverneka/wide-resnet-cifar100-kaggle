@@ -1,7 +1,7 @@
 # Wide Residual Networks Using Ensemble for CIFAR100 Kaggle submission (.csv is generated)
 
 
-This is taken from https://github.com/meliketoy/wide-residual-network/ and modified to create solutionto STAT946 kaggle challenge - Deep Learning and gives 0.83971 on the private leaderboard: https://www.kaggle.com/c/fall2017stat946/leaderboard
+This is taken from https://github.com/meliketoy/wide-residual-network/ and modified to create solution for STAT946 kaggle challenge - Deep Learning and gives 0.83971 on the private leaderboard: https://www.kaggle.com/c/fall2017stat946/leaderboard
 
 NOTE: Before submitting the solution, make sure to remove "true_labels" column from the csv file generated.
 
